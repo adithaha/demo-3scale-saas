@@ -42,6 +42,7 @@ Go to Applications tab
 - Select premium plan
   - GET_vocabularies 6000 hit / minute
   - GET_types 6000 hit / minute
+- Request Plan Change
   
 You will need approval from admin
 
