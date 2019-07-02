@@ -19,7 +19,7 @@ Note down your unique user key (eg. bb629d06ad6bf40c736a735a315836cba)
 Go to Documentation tab
 - GET /vocabularies
 - LANG: en
-- USER_KEY: <user-key>
+- USER_KEY: #user-key
 - Try it out!
   
 You should be able to see response
@@ -28,7 +28,7 @@ You should be able to see response
 Go to Documentation tab
 - GET /types
 - LANG: en
-- USER_KEY: <user-key>
+- USER_KEY: #user-key
 - Try it out!
   
 You should see Limit exceeded response
