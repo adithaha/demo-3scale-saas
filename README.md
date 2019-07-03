@@ -2,7 +2,9 @@
 
 ## Register account on developer portal
 Register your email at developer portal https://anugraha.3scale.net - Sign in - Sign up  
-All entries must be filled.
+- All entries must be filled.
+- Activation link will be sent via email
+- Log in after account activated
 
 Review API documentation at DOCUMENTATION tab.
 
