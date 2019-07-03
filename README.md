@@ -1,7 +1,7 @@
 # Demo 3Scale as API user
 
 ## Register account on developer portal
-Register your email at developer portal https://anugraha.3scale.net - Sign in - Sign up
+Register your email at developer portal https://anugraha.3scale.net - Sign in - Sign up  
 All entries must be filled.
 
 Review API documentation at DOCUMENTATION tab.
