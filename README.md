@@ -25,7 +25,7 @@ Go to DOCUMENTATION tab
   
 You should be able to see response.
 
-## Try out calling protected API using your key
+## Try out calling unauthorized API using your key
 Go to DOCUMENTATION tab
 - GET /types
 - LANG: en
